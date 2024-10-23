@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    width: 100vw;
+    height: 100vh;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+ol {
+    margin-left: 15px;
+}
+
+div {
+    border: 1px solid #000;
+    padding: 15px;
+    gap: 19px;
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    width: 300px;
+}
+
+
